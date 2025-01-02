@@ -1,4 +1,7 @@
 import React from "react";
+import facebookIcon from "../assets/facebook.png";
+import twitterIcon from "../assets/twitter.png";
+import instagramIcon from "../assets/instagram.png";
 
 const Footer = () => {
   return (
